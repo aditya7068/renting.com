@@ -1,0 +1,44 @@
+.renting-com {
+  font-size: 22px;
+  margin-top: 4px;
+}
+
+.profile-btn {
+  height: 30px;
+  font-size: 16px;
+  background-color: #ace5ee;
+  border:1px solid black;
+  border-radius: 4px;
+  margin-top: 7px;
+  margin-bottom: 4px;
+}
+
+.search {
+  margin-top: 5px;
+  padding-left: 30px;
+  margin-bottom: 4px;
+}
+
+.address-input {
+  width: 200px;
+  height: 30px;
+  font-size: 14px;
+  padding: 0 8px;
+  border:none;
+  border-radius: 4px;
+  margin-top: 2px;
+}
+
+.profile-btn:hover {
+  box-shadow: 0 8px 16px 0 rgba(151, 148, 148, 0.3);
+}
+
+.search_btn{
+  border: none;
+  padding: 5px;
+  background-color: #ace5ee;
+}
+
+.homeIcon img,svg{
+  vertical-align: baseline;
+}
